@@ -1,0 +1,40 @@
+body{
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   background-color: whitesmoke;
+}
+.Start{
+    font-size: 40px;
+}
+.Start_1{
+    margin-top: -1110px;
+    padding-left: 250px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ul{
+    padding-left: 25px;
+}
+.portion{
+    padding-left: 100px;
+
+}
+.portion_1{
+    padding-left: 100px;
+}
+.portion_2{
+    padding-left: 100px;
+}
+h3{
+    padding-left: 5px;
+}
+.same{
+    padding-left: 5px;
+}
+.core{
+    color: white;
+    background-color: darkred;
+    padding-left: 5px;
+}
+
+.cccc{
+    background-color: white;
+}
